@@ -11,6 +11,11 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address. The information that we request will be retained by us and used as described in this privacy policy.  
 The app does use third party services that may collect information used to identify you. 
 
+
+
+### Third Party Privacy Policies
+EY Academy's Privacy Policy does not apply to other advertisers or websites. 
+
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
  
@@ -23,6 +28,9 @@ This Services do not address anyone under the age of 13. We do not knowingly col
 
 ### Changes to This Privacy Policy  
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
+
+### Consent
+By using our app, you hereby consent to our Privacy Policy and agree to its Terms and Conditions.
 
 ### Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
